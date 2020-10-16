@@ -52,6 +52,15 @@
 
 * [Relation Extration](https://www.cnblogs.com/vpegasus/p/re.html)
 
+#### 2020/10/16
+
+##### Paper
+
+* More Data, More Relations, More Context and More Openness:A Review and Outlook for Relation Extraction.[PDF](https://arxiv.org/pdf/2004.03186.pdf)
+
+* Shen Y, Tan S, Sordoni A, et al. Ordered neurons: Integrating tree structures into recurrent neural networks[C]. ICLR 2019. [PDF](https://arxiv.org/pdf/1810.09536.pdf) | [代码](https://github.com/yikangshen/Ordered-Neurons)
+
+
 ### 2.情感分析
 
 #### 2020/09/24
@@ -86,6 +95,13 @@
 
 * Cambria E, Poria S, Bajpai R, et al. SenticNet 4: A semantic resource for sentiment analysis based on conceptual primitives[C]. In COLING 2016: 2666-2677. [PDF](https://www.sentic.net/senticnet-4.pdf) | [代码](http://sentic.net/senticnet-4.0.zip)
 
+#### 2020/10/16
+
+##### Paper
+
+* Shenoy A , Sardana A . Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation[C]// The 58th Annual Meeting of the Association for Computational Linguistics. 2020. [PDF](https://arxiv.org/pdf/2002.08267v3.pdf) | [代码](https://github.com/amanshenoy/multilogue-net)
+
+
 ### 3.命名实体识别 NER
 
 ### 4.事件抽取
@@ -102,10 +118,15 @@
 
 * [交叉熵-1](https://zhuanlan.zhihu.com/p/35709485)
 * [交叉熵-2](https://blog.csdn.net/admin_maxin/article/details/107251603)
+* [为什么交叉熵可用于计算代价](https://www.zhihu.com/question/65288314/answer/244557337)
+* [交叉熵在机器学习中的使用-1](https://blog.csdn.net/tsyccnh/article/details/79163834)
+* [交叉熵在机器学习中的使用-2](https://www.zhihu.com/question/41252833)
 * [条件熵](https://zhuanlan.zhihu.com/p/35379531)
 * [对抗训练](http://www.twistedwg.com/2018/12/04/VAT.html)
 * [Transformer](https://blog.csdn.net/longxinchen_ml/article/details/86533005)
 * [识别猫的简单神经网络](https://blog.csdn.net/u013733326/article/details/79639509)
 * [Fine-tune](https://blog.csdn.net/u013841196/article/details/80919857)
 * [孪生网络](https://blog.csdn.net/hei653779919/article/details/106588973)
-
+* [北航大数据高精尖研究中心_信息抽取](https://github.com/BDBC-KG-NLP/IE-Survey)
+* [TextCNN相关知识-1](https://zhuanlan.zhihu.com/p/77634533)
+* [TextCNN相关知识-2](https://zhuanlan.zhihu.com/p/77471866)
