@@ -60,6 +60,20 @@
 
 * Shen Y, Tan S, Sordoni A, et al. Ordered neurons: Integrating tree structures into recurrent neural networks[C]. ICLR 2019. [PDF](https://arxiv.org/pdf/1810.09536.pdf) | [代码](https://github.com/yikangshen/Ordered-Neurons)
 
+#### 2020/10/23
+
+##### Paper
+
+* Xu Han,Hao Zhu,Pengfei Yu,Ziyun Wang,Yuan Yao,Zhiyuan Liu,Maosong Sun. FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation. [PDF](https://www.aclweb.org/anthology/D18-1514.pdf)
+
+* Tianyu Gao,Xu Han,Hao Zhu,Zhiyuan Liu,Peng Li,Maosong Sun,Jie Zhou. FewRel 2.0: Towards More Challenging Few-Shot Relation Classifification.[PDF](https://www.aclweb.org/anthology/D19-1649.pdf)
+
+* Peng Zhou, Wei Shi, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, Bo Xu.Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classifification. ACL 2016. [PDF](https://www.aclweb.org/anthology/P16-2034.pdf) | [代码](https://github.com/onehaitao/Att-BLSTM-relation-extraction)
+
+* Tianyu Gao,Xu Han,Zhiyuan Liu,Maosong Sun.AAAI2019. Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. [PDF](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604/4482) | [代码](https://github.com/thunlp/HATT-Proto)
+
+* Jake Snell,Kevin Swersky,Richard Zemel.Prototypical Networks for Few-shot Learning. [PDF](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning.pdf) | [代码](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch)
+
 
 ### 2.情感分析
 
@@ -101,6 +115,17 @@
 
 * Shenoy A , Sardana A . Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation[C]// The 58th Annual Meeting of the Association for Computational Linguistics. 2020. [PDF](https://arxiv.org/pdf/2002.08267v3.pdf) | [代码](https://github.com/amanshenoy/multilogue-net)
 
+#### 2020/10/23
+
+##### Paper
+
+* Ghosal D , Akhtar M S , Chauhan D , et al. Contextual Inter-modal Attention for Multi-modal Sentiment Analysis[C]// Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [PDF](https://www.paperswithcode.com/paper/contextual-inter-modal-attention-for-multi) |[代码](https://github.com/soujanyaporia/contextual-multimodal-fusion)
+
+* Zhao H, Huang L, Zhang R, et al. SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction[C]. ACL. 2020: 3239-3248. [PDF](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
+
+* Chen S, Liu J, Wang Y, et al. Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction[C]. ACL. 2020: 6515-6524. [PDF](https://www.aclweb.org/anthology/2020.acl-main.582.pdf) | [代码](https://github.com/NKU-IIPLab/SDRN)
+
+
 
 ### 3.命名实体识别 NER
 
@@ -130,3 +155,7 @@
 * [北航大数据高精尖研究中心_信息抽取](https://github.com/BDBC-KG-NLP/IE-Survey)
 * [TextCNN相关知识-1](https://zhuanlan.zhihu.com/p/77634533)
 * [TextCNN相关知识-2](https://zhuanlan.zhihu.com/p/77471866)
+*[虚拟对抗训练](https://www.cnblogs.com/qizhou/p/12127355.html)
+* [Lipschitz约束](https://kexue.fm/archives/6051)
+* [神经网络](https://blog.csdn.net/illikang/article/details/82019945)
+* [如何深度理解RNN](https://www.zhihu.com/tardis/sogou/art/45289691)
