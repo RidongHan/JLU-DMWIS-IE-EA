@@ -74,6 +74,27 @@
 
 * Jake Snell,Kevin Swersky,Richard Zemel.Prototypical Networks for Few-shot Learning. [PDF](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning.pdf) | [代码](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch)
 
+#### 2020/10/30
+
+##### Paper
+
+* C´ ıcero Nogueira dos Santos，Bing Xiang，Bowen Zhou.Classifying Relations by Ranking with Convolutional Neural Networks.ACL2015. [PDF](https://www.aclweb.org/anthology/P15-1061) | [代码1](https://github.com/pratapbhanu/CRCNN) | [代码2](https://github.com/AnblueWang/cnn-relation-extraction-with-ranking-lossss)
+
+* Livio Baldini Soares, Nicholas FitzGerald,Jeffrey Ling,Tom Kwiatkowski.Matching the Blanks: Distributional Similarity for Relation Learning.ACL2019. [PDF](https://arxiv.org/pdf/1906.03158.pdf)
+
+* Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. [PDF](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604/4482) | [代码](https://github.com/thunlp/HATT-Proto)
+
+#### 2020/11/06
+
+##### Paper
+
+* Yao Y , Ye D , Li P , et al. DocRED: A Large-Scale Document-Level Relation Extraction Dataset[C]// Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. ACL2019. [PDF](https://www.aclweb.org/anthology/P19-1074.pdf)
+
+* Yu D , Sun K , Cardie C , et al. Dialogue-Based Relation Extraction[J].ACL2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.444.pdf)
+
+* Zhang Yuanzhe,Jiang Zhongtao,Zhang Tao,Liu Shiwan,Cao Jiarun,Cao Kang,Liu Shengping,Zhao Jun. MIE: A Medical Information Extractor towards Medical Dialogues.ACL2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.576.pdf) | [代码](https://github.com/nlpir2020/MIE-ACL-2020)
+
+* Yu Haiyang,Zhang Ningyu,Deng Shumin,Ye Hongbin,Zhang Wei,Chen Huajun.Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction.COLING 2020. [PDF](https://arxiv.org/pdf/2010.16059.pdf)
 
 ### 2.情感分析
 
@@ -159,3 +180,8 @@
 * [Lipschitz约束](https://kexue.fm/archives/6051)
 * [神经网络](https://blog.csdn.net/illikang/article/details/82019945)
 * [如何深度理解RNN](https://www.zhihu.com/tardis/sogou/art/45289691)
+* [Dropout解决过拟合问题-1](https://zhuanlan.zhihu.com/p/23178423)
+* [Dropout解决过拟合问题-2](https://zhuanlan.zhihu.com/p/38200980)
+* [网格搜索grid search](https://www.jianshu.com/p/55b9f2ea283b)
+* [通俗理解条件熵](https://zhuanlan.zhihu.com/p/26551798)
+* [pytorch学习课程视频](https://www.bilibili.com/video/BV12741177Cu?from=search&seid=1371052938873483841)
