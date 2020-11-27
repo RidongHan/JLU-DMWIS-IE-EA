@@ -96,6 +96,44 @@
 
 * Yu Haiyang,Zhang Ningyu,Deng Shumin,Ye Hongbin,Zhang Wei,Chen Huajun.Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction.COLING 2020. [PDF](https://arxiv.org/pdf/2010.16059.pdf)
 
+#### 2020/11/13
+
+##### Paper
+
+* Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification. [PDF](https://arxiv.org/pdf/1906.06678v1.pdf) | [代码](https://github.com/ZhixiuYe/MLMAN)
+
+* Enhanced LSTM for Natural Language Inference. [PDf](https://arxiv.org/pdf/1609.06038v3.pdf) | [代码](https://github.com/lukecq1231/nli)
+
+* J. Moreira, C. Oliveira, D. Macêdo, C. Zanchettin and L. Barbosa. Distantly-Supervised Neural Relation Extraction with Side Information using BERT. 2020 IJCNN. [PDF](https://sci-hub.do/10.1109/ijcnn48605.2020.9206648)
+
+#### 2020/11/20
+
+##### Paper
+
+* Dialogue-Based Relation Extraction. [PDF](https://arxiv.org/pdf/2004.08056v1.pdf) | [代码](https://github.com/nlpdata/dialogre)
+
+* Lifeng Jin，Linfeng Song, Yue Zhang, Kun Xu, Wei-yun Ma，Dong Yu. Relation Extraction Exploiting Full Dependency Forests.AAAI 2020. [PDF](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) | [代码](https://github.com/freesunshine0316/lab-re-parser-joint)
+
+* Induction Networks for Few-Shot Text Classifification. [PDF](https://arxiv.org/pdf/1902.10482.pdf) | [代码](https://github.com/wuzhiye7/Induction-Network-on-FewRel)
+
+* Dynamic Routing Between Capsules. [PDF](https://arxiv.org/pdf/1710.09829v2.pdf) | [代码](https://github.com/naturomics/CapsNet-Tensorflow)
+
+* Yuan Y, Liu L, Tang S, et al. Cross-relation cross-bag attention for distantly-supervised relation extraction[C].AAAI 2019. [PDF](https://ojs.aaai.org//index.php/AAAI/article/view/3813)
+
+#### 2020/11/27
+
+##### Paper
+
+* Dialogue Relation Extraction with Document-level Heterogeneous Graph Attention Networks. [PDF](https://arxiv.org/pdf/2009.05092.pdf) | [代码](https://github.com/declare-lab/dialog-HGAT)
+
+* Dat Quoc Nguyen,Karin Verspoor. Convolutional neural networks for chemical-disease relation extraction are improved with character-based word embeddings.ACL 2018. [PDF](https://www.aclweb.org/anthology/W18-2314.pdf)
+
+* Dynamic Memory Induction Networks for Few-Shot Text Classification.2020 ACL. [PDF](https://www.aclweb.org/anthology/2020.acl-main.102.pdf)
+
+* Hierarchical Attention Prototypical Networks for Few-Shot Text Classification. ACL 2019. [PDF](https://www.aclweb.org/anthology/D19-1045.pdf)
+
+* Ding Z, Xia R, Yu J. ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction[C]//ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.288.pdf) | [代码](https://github.com/NUSTM/ECPE-2D)
+
 ### 2.情感分析
 
 #### 2020/09/24
@@ -146,6 +184,28 @@
 
 * Chen S, Liu J, Wang Y, et al. Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction[C]. ACL. 2020: 6515-6524. [PDF](https://www.aclweb.org/anthology/2020.acl-main.582.pdf) | [代码](https://github.com/NKU-IIPLab/SDRN)
 
+#### 2020/11/13
+
+##### Paper
+
+* Chen Z, Qian T. Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis[C]. ACL. 2020: 3685-3694. [PDF](https://www.aclweb.org/anthology/2020.acl-main.340.pdf) | [代码](https://github.com/NLPWM-WHU/RACL)
+
+#### 2020/11/20
+
+##### Paper
+
+* Poria S , Hazarika D , Majumder N , et al. MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations[J]. 2019 ACL. [PDF](https://www.aclweb.org/anthology/P19-1050.pdf) 
+| [代码1](https://github.com/declare-lab/MELD) | [代码2](https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION)
+
+* Soares L B, FitzGerald N, Ling J, et al. Matching the Blanks: Distributional Similarity for Relation Learning[C] . ACL. 2020: 2895-2905. [PDF](https://arxiv.org/pdf/1906.03158v1.pdf) | [代码](https://github.com/plkmo/BERT-Relation-Extraction)
+
+#### 2020/11/27
+
+##### Paper
+
+* Ghosal D , Majumder N , Poria S , et al. DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation[J]. 2019. [PDF](https://arxiv.org/pdf/2002.08267v3.pdf) | [代码](https://github.com/amanshenoy/multilogue-net)
+
+* Mikael Henaff, Jason Weston1, Arthur Szlam1, et al. Tracking the World State with Recurrent Entity Networks[C]. ICLR 2017. [PDF](https://arxiv.org/pdf/1612.03969.pdf) | [代码](https://github.com/facebook/MemNN/tree/master/EntNet-babi)
 
 
 ### 3.命名实体识别 NER
@@ -185,3 +245,7 @@
 * [网格搜索grid search](https://www.jianshu.com/p/55b9f2ea283b)
 * [通俗理解条件熵](https://zhuanlan.zhihu.com/p/26551798)
 * [pytorch学习课程视频](https://www.bilibili.com/video/BV12741177Cu?from=search&seid=1371052938873483841)
+* [pytorch学习，训练LSTM网络构建语言模型](https://www.bilibili.com/video/BV12741177Cu?p=3)
+* [LSTM & GRU](https://mp.weixin.qq.com/s/aV9Rj-CnJZRXRm0rDOK6gg)
+* [理解胶囊网络-1](https://www.sohu.com/a/226611009_633698)
+* [理解胶囊网络-2](https://zhuanlan.zhihu.com/p/32156167)
